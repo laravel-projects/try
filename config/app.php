@@ -165,7 +165,10 @@ return [
 
         /*
          * Package Service Providers...
-         */
+         */ 
+
+         
+        Marvision\LaravelAdmin\MLAServiceProvider::class,
 
         //
 
